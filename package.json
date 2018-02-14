@@ -5,7 +5,7 @@
   "main": "angular-ui-router.js",
   "scripts": {
     "server": "json-server --watch db.json",
-    "start": "http-server"    
+    "start": "http-server"
   },
   "repository": {
     "type": "git",
